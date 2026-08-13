@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "domaca-delavnica1",
+    "description": "",
+    "home_page_url": "https://Jakob-Peharda.github.io/jakob-peharda",
+    "feed_url": "https://Jakob-Peharda.github.io/jakob-peharda/feed.json",
+    "user_comment": "",
+    "icon": "https://Jakob-Peharda.github.io/jakob-peharda/media/website/logo_DD.1svg.svg",
+    "author": {
+        "name": "domača delavnica"
+    },
+    "items": [
+    ]
+}
