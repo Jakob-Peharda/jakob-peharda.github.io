@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Jakob-Peharda.github.io/jakob-peharda/sitemap.xml
